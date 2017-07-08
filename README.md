@@ -5,5 +5,5 @@ akikura\(あきくら\)の要件定義書である。
 
 test
 
-test2
+test2a
 
